@@ -13,9 +13,9 @@ include "init_session.php";
     initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0"
     />
 
-    <title>Dashboard &mdash; BiteNest 🍖</title>
+    <title>Dashboard &mdash; Temu Bual</title>
     <!-- Favicon -->
-    <link rel="icon" type="image/x-icon" href="assets/img/favicon/favicon.ico" />
+    <link rel="icon" type="image/x-icon" href="assets/img/favicon/favicon.png" />
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="assets/vendor/fonts/boxicons.css" />

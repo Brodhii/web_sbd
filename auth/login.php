@@ -17,7 +17,7 @@ include("./.layouts/header.php"); // Pastikan path benar
     <div class="app-brand justify-content-center">
       <a href="../index.php" class="app-brand-link gap-2">
         <span class="app-brand-logo demo"></span>
-        <span class="app-brand-text demo text-uppercase fw-bolder">BiteNest 🍖</span>
+        <span class="app-brand-text demo text-uppercase fw-bolder">Temu Bual</span>
       </a>
     </div>
     
